@@ -24,3 +24,8 @@ public class Part2 {
 			}
 	}
 }
+//friday
+//monday
+//saturday
+//wednesday
+//thursday

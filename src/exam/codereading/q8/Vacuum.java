@@ -59,3 +59,10 @@ public class Vacuum {
 		System.out.println(old.clean(1));
     }
  }
+ //2
+ //0
+ //0
+ //5
+ //0
+ //2
+ //3

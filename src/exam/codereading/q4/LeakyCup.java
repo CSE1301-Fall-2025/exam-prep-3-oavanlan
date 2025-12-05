@@ -53,3 +53,11 @@ public class LeakyCup {
 		System.out.println (bigRef.drip());
 	}
 }
+//0
+//8
+//7
+//74
+//64
+//62
+//52
+//42
